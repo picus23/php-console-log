@@ -1,0 +1,15 @@
+{
+    "name": "x/console-log",
+    "authors": [
+        {
+            "name": "picus23",
+            "email": "picus.2022@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "x\\console\\": "src/"
+        }
+    }
+}
